@@ -1,4 +1,4 @@
-import * as THREE from 'https://cdn.skypack.dev/three@0.160.0';
+import * as THREE from 'three';
 
 let scene, camera, renderer, earth;
 let zoomTarget = 10;
